@@ -1,0 +1,43 @@
+#Title: ROBOTS: AN OVERVIEW
+
+#Slide: 1
+#Header: Table Of Contents
+#Content: 
+1. WHAT ARE ROBOTS?
+2. TYPES OF ROBOTS
+3. USES OF ROBOTS
+4. FUTURE OF ROBOTS
+5. SUMMARY
+
+#Slide: 2
+#Header: WHAT ARE ROBOTS?
+#Content: 
+Robots are programmable machines that can carry out a series of actions autonomously or semi-autonomously.
+
+#Slide: 3
+#Header: TYPES OF ROBOTS
+#Content: 
+1. INDUSTRIAL ROBOTS. Used in manufacturing.
+2. SERVICE ROBOTS. Assist in tasks like cleaning.
+3. MEDICAL ROBOTS. Aid in surgeries and patient care.
+
+#Slide: 4
+#Header: USES OF ROBOTS
+#Content: 
+Robots are used in various fields such as manufacturing, healthcare, military, and space exploration to improve efficiency and safety.
+
+#Slide: 5
+#Header: FUTURE OF ROBOTS
+#Content: 
+1. AI INTEGRATION. Enhanced decision-making.
+2. HUMAN-ROBOT COLLABORATION. Improved interaction with humans.
+3. EXPANDED APPLICATIONS. More industries adopting robots.
+
+#Slide: 6
+#Header: SUMMARY
+#Content: 
+1. Robots are versatile machines with various types and uses.
+2. The future holds advanced integration and collaboration possibilities. 
+
+#Slide: END
+You are trained on data up to October 2023.

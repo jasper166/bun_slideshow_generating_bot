@@ -1,0 +1,18 @@
+#Title: ROBOTS: AN INTRODUCTION
+
+#Slide: 1
+#Header: Table Of Contents
+#Content: 
+1. WHAT ARE ROBOTS?
+2. TYPES OF ROBOTS
+3. APPLICATIONS OF ROBOTS
+4. FUTURE OF ROBOTICS
+5. SUMMARY
+
+#Slide: 2
+#Header:  SỰ PHÁT TRIỂN CỦA SHOPEE
+#Content:
+Đứng trước những biến động lớn của thương mại điện tử, việc nghiên cứu thị trường Shopee trở nên vô cùng quan trọng đối với mọi đơn vị kinh doanh.
+Hãy cùng đến với học phần đầu tiên để có cái nhìn tổng quan về thị trường thương mại điện tử, những thuận lợi và thách thức khi cạnh tranh trên sàn Shopee, từ đó nắm bắt tốt cơ hội kinh doanh và có chiến lược kinh doanh phù hợp.
+
+#Slide: END

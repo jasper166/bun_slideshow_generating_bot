@@ -1,0 +1,8 @@
+Design Thinking is a creative process for solving complex problems by putting people at the center.
+This method helps to understand the needs and desires of users, thereby developing more optimal solutions to the challenges they are facing.
+Design Thinking is an iterative process, including steps such as Empathize, Define, Ideate, Prototype and Test.
+
+The goals of this method are:
+Focus on users: Understand the needs, emotions and behaviors of users to come up with the most suitable solution.
+Encourage creativity: Create space for new ideas without being limited by traditional frameworks.
+Continuous testing and improvement: Solutions are tested and adjusted based on real feedback from users.

@@ -1,0 +1,308 @@
+﻿STT,Bố cục,Script,Định dạng,Mã cảnh,Thời lượng (tính hàm),Thời lượng dự kiến,Mô tả hình ảnh,Text hiển thị,File đính kèm,,,,,,,,,,
+A. GIỚI THIỆU KHOÁ HỌC,,,,,,,,,,,,,,,,,,,
+1,Giới thiệu,Chào mừng bạn đến với khóa học Cơ bản về kinh doanh trên Shopee được xây dựng bởi đội ngũ nhân sự UpBase! ,Slideshow,S1,0.1,0.5,,"Typography tên khóa học ""Cơ bản về knh doanh trên Shopee""",,,,,,,,,,,
+2,,Hãy cùng điểm qua những mục tiêu và nội dung chính của khóa học này nhé!,Slideshow,S2,0.1,0,Minh họa icon mục tiêu và nội dung,"Mục tiêu
+Nội dung",,,,,,,,,,,
+3,Mục tiêu,"Khóa học này hướng đến ba mục tiêu:
+- Đầu tiên là giúp bạn hiểu rõ về thị trường thương mại điện tử và những cơ hội, thách thức khi kinh doanh trên Shopee. 
+- Thứ hai là giúp bạn nắm vững công thức kinh doanh hiệu quả, đồng thời khám phá cách xây dựng và tối ưu cơ cấu doanh thu, quản lý chi phí.
+- Cuối cùng, bạn sẽ tận dụng được nhịp sàn và nhịp gian hàng để thúc đẩy tăng trưởng bền vững.",Slideshow,S3,0.5,0.5,https://prnt.sc/GXBQL-JUofAF,,,,,,,,,,,,
+4,Cấu trúc,"Để đạt được những mục tiêu này, bạn sẽ lần lượt tìm hiểu 4 học phần bao gồm:
+- Phần 1: Tổng quan thị trường Shopee
+- Phần 2: Công thức kinh doanh hiệu quả
+- Phần 3: Cơ cấu doanh thu và chi phí
+- Phần 4: Nhịp sàn & Nhịp gian hàng",Slideshow,S4,0.3,0.5,https://prnt.sc/yFVs034Yxt2t,,,,,,,,,,,,
+B. NỘI DUNG KHOÁ HỌC,,,,,,,,,,,,,,,,,,,
+5,1. Tổng quan thị trường Shopee,"Đứng trước những biến động lớn của thương mại điện tử, việc nghiên cứu thị trường Shopee trở nên vô cùng quan trọng đối với mọi đơn vị kinh doanh.",Slideshow,S5,0.2,0.5,Minh họa kính lúp soi vào bản báo cáo kết quả doanh thu có logo Shopee,Nghiên cứu thị trường Shopee là nhiệm vụ quan trọng đối với mọi đơn vị kinh doanh.,,,,,,,,,,,
+6,,"Hãy cùng đến với học phần đầu tiên để có cái nhìn tổng quan về thị trường thương mại điện tử, những thuận lợi và thách thức khi cạnh tranh trên sàn Shopee, từ đó nắm bắt tốt cơ hội kinh doanh và có chiến lược kinh doanh phù hợp.",Slideshow,S6,0.3,0.5,"Minh họa infographic 4 học phần, highlight học phần 1",,,,,,,,,,,,
+7,1.1. Sự phát triển của Shopee,"Thương mại điện tử đang trở thành kênh mua sắm chính yếu tại Việt Nam, với tốc độ tăng trưởng trung bình >20%/năm. ",Slideshow,S7,0.1,0.5,"Minh họa biểu đồ cột tăng trưởng của Shopee trong 5 năm
+","Hiển thị typography ""Tốc độ tăng trưởng >20%/năm""
+Thêm chú thích (Nguồn: iPrice, Statista năm 2024)
+",,,,,,,,,,,
+8,,"Sự gia tăng của thanh toán không tiền mặt, logistics phát triển, và hành vi tiêu dùng số hóa đã thúc đẩy sự mở rộng nhanh chóng của thương mại điện tử.",Slideshow,S8,0.2,0.5,https://prnt.sc/V-4dgZuKiZMJ,,,,,,,,,,,,
+9,,"Trong đó, Shopee hiện là một trong những nền tảng bán hàng trực tuyến lớn nhất, vượt qua các đối thủ như Lazada, Tiki và TikTok Shop nhờ hệ sinh thái mạnh mẽ, lượng người dùng lớn và chiến lược giá cạnh tranh.",Slideshow,S9,0.2,0.5,"Minh họa biểu đồ tròn các nền tảng bán hàng trực tuyến gồm Shopee, Lazada, Tiki, Tiktok Shop, Khác. Trong đó phần của Shopee là rộng nhất.
+",Shopee là nền tảng bán hàng trực tuyến lớn nhất,,,,,,,,,,,
+10,,"Shopee và TikTok Shop tiếp tục khẳng định vị thế dẫn đầu trên thị trường thương mại điện tử Việt Nam với tổng giá trị giao dịch lần lượt đạt 9,3 tỷ USD và 3,8 tỷ USD, chiếm 66,7% và 26,9% thị phần. Tốc độ tăng trưởng doanh thu của hai nền tảng này trong năm 2024 đạt mức thần tốc 41% và 99% so với năm 2023. 
+
+",Slideshow,S10,0.4,0.5,https://prnt.sc/TY0dyi0CexNe,,,,,,,,,,,,
+11,,Bạn hãy đọc thêm bài viết từ Việt Nam plus và Báo cáo Thị trường E-commerce 2024 ở phần tài liệu đính kèm để tìm hiểu thêm các thông tin bổ trợ nhé.,Slideshow,S11,0.2,0.5,Cap ảnh chụp màn hình của bài báo và ảnh chụp màn hình file báo cáo thị trường e-commerce 2024,,"Gắn thêm phần này vào link đính kèm 
+https://www.vietnamplus.vn/tong-gia-tri-giao-dich-thuong-mai-dien-tu-viet-nam-tang-manh-40-trong-nam-2024-post1009122.vnp?utm_source=chatgpt.com
+
+và gắn file Thị trường E-commerce 2024 giống bài Tiktok Shop",,,,,,,,,,
+12,,"Để giữ được phong độ trên năm 2024, Shopee đã nỗ lực trong việc cải thiện dịch vụ, tăng trưởng bền vững và củng cố hệ sinh thái thương mại điện tử, cụ thể như sau:",Slideshow,S12,0.2,0.5,"Minh họa logo Shopee cùng 3 icon tương ứng 3 ý:
+- Icon nâng cấp dịch vụ
+- Icon tăng trưởng
+- Icon TMĐT","- Cải thiện dịch vụ
+- Tăng trưởng bền vững
+- Củng cố hệ sinh thái thương mại điện tử",,,,,,,,,,,
+13,,"
+- Thứ nhất là Hậu cần & Hoàn trả:
+Shopee tập trung vào tối ưu thời gian giao hàng và đơn giản hóa quy trình hoàn trả, giúp nâng cao trải nghiệm mua sắm:
+Chính sách này giúp người bán tăng doanh thu, giảm tỷ lệ hủy đơn và khiếu nại, củng cố môi trường mua sắm chuyên nghiệp.
+",Slideshow,S13,0.3,0.5,https://prnt.sc/gEaD1ck5tkzt,,,,,,,,,,,,
+14,,"- Thứ hai là Dịch vụ mua trước - trả sau (SPaylater):
+Dịch vụ này giúp người dùng dễ dàng chi tiêu, giúp người bán tăng tỷ lệ chuyển đổi đơn hàng và thúc đẩy doanh thu.",Slideshow,S14,0.2,0.5,https://prnt.sc/Mvr-8efSFrnI,,,,,,,,,,,,
+15,,"- Thứ ba là Hệ sinh thái Shopee:
+Hệ sinh thái thương mại mạnh mẽ dựa trên Livestream, Tiếp thị liên kết và Video Content.
+=> Sự phát triển mạnh mẽ trên nền tảng nội dung số giúp các nhãn hàng dễ dàng thu hút khách hàng qua nhiều kênh, thay vì chỉ dựa vào quảng cáo. ",Slideshow,S15,0.3,0.5,https://prnt.sc/s-Fp84F4dMcR,,,,,,,,,,,,
+16,1.2. Cơ hội và thách thức khi kinh doanh trên Shopee,"Shopee mang đến cơ hội kinh doanh lớn nhưng cũng đi kèm với sự cạnh tranh khốc liệt.
+- Những cơ hội từ Shopee có thể kể đến như:
++ Dễ dàng tiếp cận người mua với tỷ lệ khách hàng quay lại cao do lịch sử phát triển lâu đời với lượng khách hàng lớn.
++ Hỗ trợ người bán thông qua Công cụ tiếp thị đa dạng và Hệ thống thanh toán & logistic tối ưu.
+=> Điều này giúp tối ưu trải nghiệm với người tiêu dùng.
+",Slideshow,S16,0.5,0.5,https://prnt.sc/b7aq-vZDxnYq,,,,,,,,,,,,
+17,,"Ngoài ra, shopee cũng mang đến cơ hội:
++ Đẩy mạnh doanh thu thông qua các chiến dịch như: Mega Sale, mini campaign,..
++ Giúp người dùng dễ dàng theo dõi xu hướng thị trường & tối ưu chiến lược do dữ liệu thị trường và công cụ phân tích được tích hợp và giao diện tiện lợi như Phân tích từ khoá, quân sư bán hàng... 
+=>Từ đó,  người bán có thể tối ưu hiệu suất kinh doanh thông qua các công cụ Keyword Ads & Shopee CRM",Slideshow,S17,0.5,0.5,https://prnt.sc/_-QgSPyE9Y6D,,,,,,,,,,,,
+18,,"
+
+- Bên cạnh đó, việc kinh doanh trên Shopee cũng gặp phải một số thách thức như:
++ Cạnh tranh gay gắt từ nhiều nhà bán hàng khác: Cùng một sản phẩm có thể có hàng trăm người bán, đòi hỏi sự khác biệt hóa & tối ưu giá bán.
++ Cần đầu tư vào Ngân sách quảng cáo và Khai thác các traffic từ ngoại sàn để thúc đẩy nhanh về doanh số. Tuy nhiên điều này dẫn tới: 
++) Giá thầu Shopee Ads tăng cao, ROAS (Return on Ad Spend) khó tối ưu hơn.
++) Tăng trưởng hữu cơ traffic tự nhiên (SEO Shopee) khó khăn
++) Tiêu chuẩn để bán trên nền tảng về chỉ số vận hành khắt khe hơn.
+
+Như vậy, người bán , cần có chiến lược đầu tư sản phẩm, giá, quảng cáo hợp lý và kiểm soát tốt phần chỉ số vận hành để đảm bảo được phần lợi nhuận. ",Slideshow,S18,0.8,1,https://prnt.sc/AHPbKgNkUZsh,,,,,,,,,,,,
+19,2. Công thức kinh doanh hiệu quả,"Để đạt hiệu quả cao trong kinh doanh thương mại điện tử, chúng ta hãy cùng nhau tìm hiểu về Công thức kinh doanh hiệu quả GMV - một trong những mô hình quan trọng để phân tích hiệu suất kinh doanh trong học phần 2: Công thức kinh doanh hiệu quả nhé.",Slideshow,S19,0.3,0.5,"Minh họa infographic 4 học phần, highlight học phần 2, tick done học phần 1","Typography GMV, bên cạnh hiển thị text: Phân tích hiệu suất kinh doanh",,,,,,,,,,,
+20,,"
+Bạn hãy theo dõi công thức cơ bản để tính doanh thu trên thương mại điện tử như trên màn hình",Slideshow,S20,0.1,0.5,Dừng scene tầm 5s để người học bấm pause để xem,"Hiển thị công thức:
+GMV = Traffic x CR x AOV
+
+Từ các yếu tố trong công thức, vẽ mũi tên chỉ đến chú thích từng yếu tố. Nếu không thể vẽ mũi tến, có thể để text thành phần chú thích bên dưới:
+- Traffic (Lưu lượng truy cập): Tổng số người dùng truy cập gian hàng hoặc xem sản phẩm của bạn.
+- CR - Conversion Rate (Tỷ lệ chuyển đổi): Phần trăm người truy cập thực hiện hành động mua hàng.
+- AOV – Average Order Value (Giá trị trung bình trên đơn hàng): Giá trị trung bình của mỗi đơn hàng khi khách hàng mua sản phẩm.
+
+Lưu ý chừa chỗ cho công thức và chú thích để bổ sung ở scene sau",,,,,,,,,,,
+21,,"
+Ngoài ra, bạn cần xem xét đến tỷ lệ khách hàng quay lại (CRR - Customer Return Rate) để duy trì doanh thu ổn định, công thức tính được bổ sung như sau:
+
+",Slideshow,S21,0.2,0.5,Dừng scene tầm 5s để người học bấm pause để xem,"Bổ sung những phần màu đỏ vào công thức bên trên:
+GMV = Traffic x CR x AOV + CRR x AOV
+
+- CRR - Customer Retention Rate (Tỷ lệ khách hàng quay lại): Số khách hàng đã mua hàng và tiếp tục quay lại mua lần sau.
+- CRR x AOV: Đại diện cho doanh thu từ khách hàng quay lại, những người đã có trải nghiệm tốt và tiếp tục mua sắm.",,,,,,,,,,,
+22,,"Để tối ưu doanh thu, người bán cần cải thiện từng yếu tố trong công thức GMV, bao gồm:
+- Traffic
+- CR
+- AOV
+- CRR",Slideshow,S22,0.1,0.5,Highlight các yếu tố trong công thức theo voice,"Bỏ các dòng chú thích, chỉ để lại công thức, pop up text ""Cải thiện từng yếu tố trong công thức GMV để tối ưu doanh thu""",,,,,,,,,,,
+23,2.1 Traffic,"Đầu tiên là Traffic.
+
+Đây là yếu tố quan trọng quyết định doanh thu của gian hàng. Traffic càng cao, khả năng có đơn hàng càng lớn. 
+",Slideshow,S23,0.1,0.5,"
+Highlight Traffic trong công thức GMV = Traffic x CR x AOV + CRR x AOV
+
+Minh họa icon lượng truy cập => Icon đơn hàng","Traffic là yếu tố quan trọng quyết định doanh thu của gian hàng
+
+Traffic cao => Khả năng có đơn hàng cao",,,,,,,,,,,
+,,"Tuy nhiên, để tối ưu doanh số, traffic cần phải chất lượng, nghĩa là người truy cập có nhu cầu mua hàng thực sự.",Slideshow,S24,0.1,0.5,"Minh họa hình ảnh điện thoại lướt shopee, pop up icon mua hàng",Traffic chất lượng nghĩa là người truy cập có nhu cầu mua hàng thực sự,,,,,,,,,,,
+25,,"
+Có hai nguồn traffic chính là Traffic nội sàn và Traffic ngoại sàn, bạn hãy theo dõi sơ đồ để tìm hiểu nhé.
+",Slideshow,S25,0.1,0.5,"Vẽ lại sơ đồ slide 7
+",,,,,,,,,,,,
+,2.1.1 Traffic nội sàn,"Traffic nội sàn đến từ các hoạt động tiếp thị ngay trong Shopee. Đây là nguồn traffic quan trọng vì người dùng đã có nhu cầu mua sắm sẵn, giúp tăng tỷ lệ chuyển đổi.",Slideshow,S26,0.2,0.5,"Giữ nguyên sơ đồ ở scene trước, highlight vào Traffic nội sàn, pop up text","Traffic nội sàn đến từ các hoạt động tiếp thị ngay trong Shopee, nguồn traffic quan trọng vì người dùng đã có nhu cầu mua sắm sẵn, giúp tăng tỷ lệ chuyển đổi (CR).",,,,,,,,,,,
+27,,"
+
+Traffic nội sàn gồm có:
+- SEO;
+- Video Affiliate;
+- Video Self-channel;
+- Livestream Self-Channel;
+- Quảng cáo Shopee Ads, trong đó bao gồm:
++ Quảng cáo sản phẩm;
++ Quảng cáo shop;
++ Quảng cáo livestream;
+- Chiến dịch sàn;
+- Gói chiến dịch Marketing (Shopee Marketing Solutions).
+",Slideshow,S27,0.2,0.5,"Vẽ lại sơ đồ phần Traffic nội sàn ở slide 7, voice đọc tới đâu thì highlight phần đó và hiển thị pop up text giải thích","Pop up các box text giải thích như sau, hết voice thì không hiện text giải thích nữa (Chỉ hiện giải thích phần text đỏ):
+- SEO: Tối ưu gian hàng để xuất hiện sản phẩm tự nhiên trên kết quả tìm kiếm Shopee.
+- Video Affiliate: Hợp tác với KOL (Key Opinion Leader) hoặc KOC (Key Opinion Consumer) để quảng bá sản phẩm.
+- Livestream Affiliate: Hình thức tương tự Video Affiliate nhưng thay vì video, các KOL/KOC thực hiện livestream giới thiệu sản phẩm.
+- Video Self-channel & Livestream Self-channel: Người bán tự tạo nội dung video và livestream để thu hút khách hàng.
+- Quảng cáo Shopee Ads: 
++ Quảng cáo sản phẩm: Đẩy mạnh hiển thị sản phẩm lên đầu trang tìm kiếm.
++ Quảng cáo shop: Tăng traffic cho gian hàng, giúp thương hiệu nổi bật.
++ Quảng cáo livestream: Giúp livestream tiếp cận nhiều người hơn.
+- Chiến dịch sàn: Tận dụng các chương trình giảm giá lớn như Mega Sale, Flashsale...
+- Shopee Marketing Solutions: Các giải pháp tiếp thị do Shopee cung cấp giúp đẩy mạnh hiển thị sản phẩm, tạo banner, quảng cáo theo insight khách hàng và một số quyền lợi về hiển thị sản phẩm tại các hạng mục Shopee đang triển khai.",,,,,,,,,,,
+28,2.1.2 Traffic ngoại sàn,"Tiếp theo là Traffic ngoại sàn.
+
+Các nhà bán hàng có thể tận dụng traffic từ bên ngoài để kéo khách hàng vào Shopee.
+
+Các nguồn traffic ngoại sàn, gồm có: 
+- TikTok;
+- Google Ads/Google Shopping;
+- Social Media.
+
+Như hiện tại TikTok được đánh giá là nền tảng kéo traffic ngoại sàn cho shopee có hiệu quả và tốc độ nhanh nhất. ",Slideshow,S28,0.3,0.5,"Vẽ lại sơ đồ phần Traffic ngoại sàn ở slide 7, voice đọc tới đâu thì highlight phần đó và hiển thi pop up text giải thích","Pop up các box text giải thích như sau (Chỉ hiện giải thích phần text đỏ). Hết voice có thể để nguyên text giải thích nếu không quá chật scene.
+- TikTok: Quảng bá qua TikTok Ads và Video viral.
+- Google Ads/Google Shopping: Chạy quảng cáo trên Google để kéo traffic về Shopee.
+- Social Media: Quảng cáo Facebook, Instagram, Seeding trong nhóm và Fanpage.",,,,,,,,,,,
+29,2.2 CR,"Thứ hai là CR (Tỷ lệ chuyển đổi).
+
+Đây là tỷ lệ khách hàng thực hiện hành động mong muốn (mua hàng, đặt cọc…) trên tổng số khách truy cập. 
+
+CR cao đồng nghĩa với việc nhà bán hàng biến traffic thành doanh thu hiệu quả.
+
+",Slideshow,S29,0.2,0.5,Highlight CR trong công thức GMV = Traffic x CR x AOV + CRR x AOV,"Pop up text từ CR:
+- Là tỷ lệ khách hàng thực hiện hành động mong muốn (mua hàng, đặt cọc…) trên tổng số khách truy cập.
+- CR cao => nhà bán hàng biến traffic thành doanh thu hiệu quả.",,,,,,,,,,,
+30,,"Có 4 yếu tố chính ảnh hưởng đến CR, gồm có:
+- Thông tin sản phẩm: Khách hàng chỉ mua sản phẩm khi họ hiểu rõ về sản phẩm. Nếu thông tin không đủ, họ sẽ rời đi và tìm nhà bán hàng khác.
+- Đánh giá (review) và lượt mua: 85% khách hàng xem review trước khi mua hàng. Nếu sản phẩm có nhiều đánh giá tốt và lượt mua cao, khách sẽ dễ chốt đơn hơn.
+- Chương trình khuyến mãi: Giảm giá, quà tặng và freeship giúp khách cảm thấy hời khi mua hàng, từ đó thúc đẩy họ quyết định nhanh hơn.
+- Uy tín gian hàng: Khách hàng có xu hướng chọn những gian hàng được đầu tư chuyên nghiệp, đặc biệt là các nhà bán hàng có Shopee Mall hoặc nhãn hiệu riêng.",Slideshow,S30,0.8,1,https://prnt.sc/_6L9nWmZtugM,,,,,,,,,,,,
+31,2.3 AOV,"Thứ ba là AOV (Giá trị trung bình trên đơn hàng)
+
+Đây là một chỉ số quan trọng trong thương mại điện tử, phản ánh giá trị trung bình của mỗi đơn hàng. 
+
+Tăng AOV giúp doanh nghiệp tối đa hóa doanh thu mà không cần thu hút thêm khách hàng mới. ",Slideshow,S31,0.3,0.5,Highlight AOV trong công thức GMV = Traffic x CR x AOV + CRR x AOV,"Pop up text từ AOV:
+- Là chỉ số phản ánh giá trị trung bình của mỗi đơn hàng
+- Tăng AOV giúp doanh nghiệp tối đa hóa doanh thu mà không cần thu hút thêm khách hàng mới. ",,,,,,,,,,,
+32,,"Hai yếu tố chính ảnh hưởng đến AOV, bao gồm:
+- Chương trình khuyến mãi: giảm giá khi mua số lượng lớn, combo sản phẩm, hoặc quà tặng;
+- Chiến lược sản phẩm, bạn có thể tham khảo các chiến lược như:
++ Bán theo gói (Bundling);
++ Upselling & Cross-selling;
++ Giá trị gia tăng.",Slideshow,S32,0.3,0.5,https://prnt.sc/NTsx-T3ebo4o,,,,,,,,,,,,
+33,2.4 CRR,"Thứ tư là CRR (Tỷ lệ khách hàng quay lại) .
+
+Đây là chỉ số đo lường khả năng giữ chân khách hàng cũ của một doanh nghiệp. 
+
+Việc cải thiện CRR giúp giảm chi phí marketing do khách hàng quay lại mua sắm mà không cần tốn thêm chi phí quảng cáo mới. ",Slideshow,S33,0.3,0.5,Highlight CRR trong công thức GMV = Traffic x CR x AOV + CRR x AOV,"Pop up text từ CRR:
+- Là chỉ số đo lường khả năng giữ chân khách hàng cũ của một doanh nghiệp.
+- Cải thiện CRR giúp giảm chi phí marketing do khách hàng quay lại mua sắm mà không tốn chi phí quảng cáo mới.
+",,,,,,,,,,,
+34,,"Các yếu tố chính tác động đến CRR bao gồm
+- Dịch vụ chăm sóc khách hàng & Chế độ hậu mãi, bao gồm:
++ Chính sách bảo hành, đổi trả linh hoạt giúp khách hàng an tâm mua sắm.
++ Tương tác thường xuyên qua tin nhắn, email để cập nhật chương trình ưu đãi hoặc thông tin sản phẩm mới.
+
+- Ưu đãi khách hàng thân thiết, bao gồm:
++ Chế độ hậu mãi hấp dẫn nhằm tăng trải nghiệm và sự gắn kết với thương hiệu.
++ Gửi thông báo ưu đãi cá nhân hóa qua tin nhắn để thúc đẩy mua hàng lặp lại.
+
+- Quảng cáo Tiếp thị lại: 
++ Tận dụng tính năng quảng cáo hiển thị lại để tiếp cận khách hàng đã theo dõi gian hàng, từng xem sản phẩm nhưng chưa mua hoặc đã từng mua hàng.
++ Gửi tin nhắn nhắc nhở và đề xuất sản phẩm phù hợp nhằm gia tăng tỷ lệ quay lại mua sắm.",Slideshow,S34,0.9,1,https://prnt.sc/8byddxct0H1D,,,,,,,,,,,,
+35,3. Cơ cấu doanh thu và chi phí,"Đến với học phần 3: Cơ cấu doanh thu và chi phí, bạn sẽ được tìm hiểu về cách vận hành dòng tiền, bao gồm doanh thu và chi phí. Việc hiểu rõ cơ cấu doanh thu và chi phí giúp người bán tối ưu lợi nhuận, giảm lãng phí và duy trì kinh doanh lâu dài trên Shopee.",Slideshow,S35,0.3,0.5,"Minh họa infographic 4 học phần, highlight học phần 3, tick done học phần 1-2","Pop up thêm text từ học phần 3: 
+- Doanh thu
+- Chi phí
+Thêm text chú thích bên dưới: 
+Hiểu rõ cơ cấu doanh thu và chi phí giúp người bán tối ưu lợi nhuận, giảm lãng phí và duy trì kinh doanh lâu dài trên Shopee.",,,,,,,,,,,
+36,3.1 Cơ cấu doanh thu,"Doanh thu tổng thể trên Shopee được tạo thành từ nhiều nguồn khác nhau, chủ yếu tập trung vào việc tối ưu hiển thị sản phẩm và thu hút khách hàng thông qua các kênh marketing và quảng bá. Hãy tìm hiểu từng yếu tố trong cơ cấu doanh thu nhé.",Slideshow,S36,0.3,0.5,https://prnt.sc/zTFN1vKAhM1l,,,,,,,,,,,,
+37,,"
+'- Đầu tiên là Quảng cáo (Ads): 
+Người bán chi tiền chạy quảng cáo trên Shopee Ads để tăng hiển thị sản phẩm, thu hút thêm lượt truy cập và đơn hàng.
+Ví dụ: nhà bán hàng chạy quảng cáo 5 triệu đồng/tháng, với ROAS (Return on Ad Spend) = 3.
+-> Như vậy: Doanh thu từ quảng cáo = 5 triệu nhân 3 = 15 triệu đồng.",Slideshow,S37,0.4,0.5,https://prnt.sc/x3OSDdaMXn_N,,,,,,,,,,,,
+38,,"- Thứ hai là Livestream: 
+Đây là hình thức bán hàng thông qua livestream giúp tương tác trực tiếp với khách hàng, tạo ra đơn hàng ngay trong buổi phát sóng.
+Ví dụ: 
++) Một nhà bán hàng livestream mỗi tối với lượng người xem trung bình 2.000 người.
++) Tỷ lệ chuyển đổi (CR) từ livestream là 5%, tức là 100 người đặt hàng.
++) Giá trị trung bình đơn hàng (AOV): 250.000 đồng.
+-> Như vậy: Doanh thu từ Shopee Live = 100 nhân 250.000 = 25 triệu đồng/livestream.",Slideshow,S38,0.5,0.5,https://prnt.sc/vmIbbL8TeAUe,,,,,,,,,,,,
+39,,"- Thứ ba là Video: 
+Shopee ngày càng tập trung vào nội dung video để giúp người bán tiếp cận khách hàng hiệu quả hơn. Ví dụ: 
++) Một nhà bán hàng đăng 5 video/ngày, mỗi video tiếp cận 10.000 người.
++) Tỷ lệ nhấp vào sản phẩm từ video là 3%, tức 300 lượt truy cập/ngày.
++) Nếu tỷ lệ chuyển đổi (CR) là 2% thì nhà bán hàng có 6 đơn/ngày từ Video Shopping.
+-> Như vậy: Doanh thu từ video = 6 đơn nhân 200.000 đồng nhân 30 ngày = 36 triệu đồng/tháng.",Slideshow,S39,0.5,0.5,https://prnt.sc/-vczq-vHfurV,,,,,,,,,,,,
+40,,"- Cuối cùng là Affiliate Cộng đồng: 
+Việc hợp tác với các KOLs, KOCs, các đối tác tiếp thị liên kết giúp tăng doanh số bán hàng thông qua hệ thống cộng tác viên.
+Ví dụ:
++) nhà bán hàng hợp tác với 5 KOC, mỗi người có 10.000 follower.
++) Trung bình, 2% follower nhấp vào link => 1.000 lượt truy cập.
++) Tỷ lệ chuyển đổi (CR) = 3% tương đương 30 đơn hàng.
++) Giá trị trung bình đơn hàng (AOV): 300.000 đồng.
+-> Như vậy: Doanh thu từ Affiliate = 30 nhân 300.000 = 9 triệu đồng.",Slideshow,S40,0.5,0.5,https://prnt.sc/F42BopcBPNWn,,,,,,,,,,,,
+41,,"
+Mỗi hạng mục sẽ đóng góp bao nhiêu % vào doanh thu tổng của gian hàng thì đó gọi là cơ cấu doanh thu.
+Ngoài ra bạn cần dựa vào cơ cấu doanh thu đặc thù của từng gian hàng hay ngành hàng để đưa ra chiến lược vận hành phù hợp cho sản phẩm.
+
+",Slideshow,S41,0.3,0.5,https://prnt.sc/OiT5sujOG0MK,,,,,,,,,,,,
+42,,Lưu ý: Cơ cấu doanh thu khi chia cho GMV gian hàng ghi nhận có thể lớn hơn 100% hay Doanh thu 1 đơn sẽ được ghi nhận ở 2 hạng mục khác nhau do thuật toán tính kết quả một số hạng mục có thời gian lưu là 7 ngày.,Slideshow,S42,0.3,0.5,Minh họa box lưu ý,Cơ cấu doanh thu khi chia cho GMV gian hàng ghi nhận có thể lớn hơn 100% hay Doanh thu 1 đơn sẽ được ghi nhận ở 2 hạng mục khác nhau do thuật toán tính kết quả một số hạng mục có thời gian lưu là 7 ngày.,,,,,,,,,,,
+43,3.2 Cơ cấu chi phí,"Tiếp theo là Cơ cấu Chi phí. Khi kinh doanh trên Shopee, việc hiểu rõ cơ cấu chi phí là rất quan trọng để tối ưu hóa lợi nhuận. 
+
+Chi phí vận hành một gian hàng trên Shopee bao gồm nhiều khoản mục khác nhau. Hãy cùng tìm hiểu từng khoản mục nhé.",Slideshow,S43,0.3,0.5,https://prnt.sc/Jsk9V2r1bvHr,,,,,,,,,,,,
+44,,"- Một là Chi phí thúc đẩy: 
+Đây là khoản chi phí để thu hút khách hàng và tăng doanh số bán hàng, bao gồm:
++) Shopee Ads (quảng cáo đấu thầu từ khóa, khám phá, shop ads, đấu thầu liên kết)
++) Chi phí Booking KOC, Gói hiển thị,...
++) Chi phí livestream, video ngắn, mini game.
++) Chi phí tham gia chương trình khuyến mãi của Shopee (Flash Sale, Mã giảm giá, Freeship Extra, Hoàn Xu Xtra,..)",Slideshow,S44,0.4,0.5,https://prnt.sc/5Gv_IdN-Xiqo,,,,,,,,,,,,
+45,,"- Hai là Chi phí sàn (Bao gồm chi phí dịch vụ): 
+Đây là các loại phí phải trả cho Shopee như:
++) Phí hoa hồng Shopee: dành cho Shopee Mall 
++) Phí thanh toán: Khoản phí khi khách hàng thanh toán qua cổng thanh toán Shopee.
++) Phí dịch vụ khác như: lưu kho, xử lý hàng trả về,..
+Ví dụ: Nếu bán hàng trên Shopee Mall, người bán sẽ mất khoảng 10% phí sàn trên mỗi đơn hàng. ( Lưu ý % này sẽ update theo thời gian thực và không cố định) ",Slideshow,S45,0.5,0.5,https://prnt.sc/xqWk-ncUu7Sz,,,,,,,,,,,,
+46,,"- Ba là Chi phí sản phẩm, bao gồm
++ Chi phí giảm giá sản phẩm
++ Voucher 
++ Quà tặng (Tính theo giá sản xuất/ giá nhập) ",Slideshow,S46,0.1,0.5,https://prnt.sc/Tsgy3nhtkyxX,,,,,,,,,,,,
+47,,"- Bốn là Chi phí Fulfillment và Vận hành, bao gồm: Chi phí Lưu kho, Đóng gói, Vận chuyển và Xử lý Đơn hàng.",Slideshow,S47,0.1,0.5,https://prnt.sc/z_7QtYZa0axy,,,,,,,,,,,,
+48,,"- Năm là Chi phí Vốn: 
++ Khoản tiền đầu tư ban đầu, vốn lưu động, và các chi phí tài chính liên quan.
++ Ví dụ: Tiền nhập hàng, Tiền duy trì kho hàng,…",Slideshow,S48,0.2,0.5,https://prnt.sc/qfOYfm3dQH61,,,,,,,,,,,,
+49,,- Sáu là Chi phí UpBase: chi tiết tại tài liệu đính kèm.,Slideshow,S49,0.1,0,https://prnt.sc/Br-ywU7uSb4x,,Bảng gói chi phí dịch vụ UpBase ,,,,,,,,,,
+50,4. Nhịp sàn & Nhịp gian hàng,"Tại học phần cuối cùng, bạn sẽ được tìm hiểu về Nhịp sàn và Nhịp gian hàng trên sàn Shopee. Khi kết hợp tốt nhịp sàn và nhịp gian hàng, nhà bán hàng có thể vừa tận dụng được sự kiện lớn từ Shopee, vừa duy trì doanh số ổn định suốt năm!",Slideshow,S50,0.3,0.5,"Minh họa infographic 4 học phần, highlight học phần 4, tick done học phần 1,2,3",Pop up text: Kết hợp tốt nhịp nhịp sàn và nhịp gian hàng giúp tận dụng được sự kiện lớn từ Shopee và duy trì doanh số ổn định suốt năm.,,,,,,,,,,,
+51,4.1 Nhịp sàn,"Nhịp sàn là thời gian Shopee thu hút người mua sắm nhiều nhất trên toàn nền tảng. 
+",Slideshow,S51,0.1,0,"Minh họa biểu đồ số lượng người mua trong tháng, trong đó ngày đôi, ngày 15 và 25 có số lượng cao nhất",Nhịp sàn là thời gian Shopee thu hút người mua sắm nhiều nhất trên toàn nền tảng. ,,,,,,,,,,,
+52,,"
+Hãy cùng phân loại nhịp sàn thành 4 loại:
+- Đầu tiên là nhịp sàn theo năm: 
++ Trong năm, Shopee có các tháng cao điểm gọi là Mega Sale, bao gồm tháng 3, 6, 9, 11, 12 và Mega Tết.
++ Nhà bán hàng nên cân nhắc đầu tư về phần hiển thị để tiếp cận và kéo thêm traffic về gian hàng.
+
+
+",Slideshow,S52,0.3,0.5,https://prnt.sc/me6fNknldscj,,,,,,,,,,,,
+53,,"
+'- Thứ hai là nhịp sàn theo tháng:
++ Trong tháng có 3-4 chiến dịch chính, bao gồm: 
++) Ngày mùng 1 (Sale đầu tháng) -> Chỉ diễn ra từ tháng 7 đến tháng 12.
++) Ngày đôi (Sale D-Day)
++) Ngày 15 (Sale giữa tháng)
++) Ngày 25 (Sale lương về) 
++ Trong đó,D-Day là ngày có doanh thu mạnh nhất với mức tăng 7-10 lần so với ngày thường. Các chiến dịch khác thì có mức độ tăng trưởng từ 2-3 lần doanh thu theo ngày.",Slideshow,S53,0.5,0.5,https://prnt.sc/U9McEZpqgOCz,,,,,,,,,,,,
+54,,"- Thứ ba là nhịp sàn theo tuần:
++ Thứ 2, thứ 4 và thứ 6 là các ngày có các chương trình thúc đẩy sale từ sàn.
++ Doanh số tại các ngày này có xu hướng tăng 1,2 đến 1,5 lần so với ngày thường",Slideshow,S54,0.3,0.5,https://prnt.sc/xWoJXnFTc9PL,,,,,,,,,,,,
+55,,"- Cuối cùng là nhịp sàn theo ngày:
++ Các khung giờ mua sắm cao điểm hay còn gọi là khung giờ vàng, bao gồm: 0 giờ, 2 giờ, 9 giờ, 12 giờ, 15 giờ, 20 giờ và 24 giờ.
++Trong đó, khung giờ 0 đến 2 giờ là mạnh nhất với lượt traffic cao.",Slideshow,S55,0.3,0.5,https://prnt.sc/r8tBrR8bo--8,,,,,,,,,,,,
+56,4.2 Nhịp gian hàng,"Tuy dựa trên nhịp sàn chung của Shopee chiếm đa số nhưng khi báo cáo về một gian hàng hoặc một ngành hàng cụ thể, bạn phải có những đánh giá đặc thù riêng dựa trên dữ liệu đã có của ngành hàng hoặc gian hàng đó.
+
+",Slideshow,S56,0.3,0.5,,"Khi báo cáo về một gian hàng hoặc một ngành hàng cụ thể, bạn phải có những đánh giá đặc thù riêng dựa trên dữ liệu đã có của ngành hàng hoặc gian hàng đó.",,,,,,,,,,,
+57,,"Ví dụ: Vào ngày D-day:
+- Thị trường chung: doanh thu ngày tăng 7 đến 10 lần.
+- Ngành hàng Mẹ và Bé: doanh thu ngày có thể tăng 20-40 lần.
+-> Nguyên nhân của số liệu này bắt nguồn từ hành vi săn sale và mua tích số lượng lớn, dẫn đến CR và AOV tăng đột biến, từ đó thúc đẩy Doanh thu tăng.",Slideshow,S57,0.4,0.5,,"Vào ngày D-Day:
+- Thị trường chung: doanh thu ngày tăng 7 đến 10 lần.
+- Ngành hàng Mẹ và Bé: doanh thu ngày tăng 20-40 lần.
+
+Hiển thị infographic bên dưới:
+Hành vi săn sale và mua tích số lượng lớn => CR và AOV tăng đột biến => Doanh thu tăng
+",,,,,,,,,,,
+C. KẾT THÚC KHÓA HỌC,,,,,,,,,,,,,,,,,,,
+58,Tóm tắt,"Chúc mừng bạn đã hoàn thành khóa học Cơ bản về kinh doanh trên Shopee với 4 học phần bổ ích đã cung cấp cho bạn kiến thức cần thiết để bắt đầu kinh doanh trên trên nền tảng Shopee.
+",Slideshow,S58,0.2,0.5,,,,,,,,,,,,,
+59,,Hãy theo dõi sơ đồ trên màn hình để tóm tắt lại kiến thức của khóa học này nhé!,Slideshow,S59,0.1,0.5,Thiết kế thông tin bên cột text thành infographic,"1.Tổng quan thị trường Shopee: 
+- Hiểu rõ thị trường thương mại điện tử nói chung;
+- Những cơ hội và thách thức khi kinh doanh trên Shopee;
+- Xác định tính phù hợp, tiềm năng phù hợp của sản phẩm và định hướng kinh doanh của nhãn hàng trên Shopee.
+2. Công thức kinh doanh hiệu quả:
+- Nắm vững công thức tính GMV;
+- Hiểu về các yếu tố thành phần: traffic, AOV, CR và CRR.
+3. Cơ cấu doanh thu và chi phí:
+- Khám phá cách xây dựng và tối ưu cơ cấu doanh thu, quản lý chi phí;
+- Nắm tổng quan cách lên kế hoạch cơ bản từ hoạt động tác động tới các chỉ số đó và tạo ra doanh thu cho gian hàng.
+4. Nhịp sàn và nhịp gian hàng:
+- Tối ưu chi phí và thúc đẩy doanh thu;
+- Thúc đẩy tăng trưởng bền vững.",,,,,,,,,,,
+60,Lời kết,Chúc bạn tích lũy được nhiều kiến thức và có một trải nghiệm bổ ích trong khóa học Cơ bản về kinh doanh trên Shopee. Xin chào và hẹn gặp lại.,Slideshow,S60,0.2,0.5,Scene kết thúc,,,,,,,,,,,,
+,,,,,17.5,30.0,,,,,,,,,,,,,

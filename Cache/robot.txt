@@ -1,0 +1,43 @@
+#Title: ROBOTS: AN INTRODUCTION
+
+#Slide: 1
+#Header: Table Of Contents
+#Content: 
+1. WHAT ARE ROBOTS?
+2. TYPES OF ROBOTS
+3. APPLICATIONS OF ROBOTS
+4. FUTURE OF ROBOTICS
+5. SUMMARY
+
+#Slide: 2
+#Header: What Are Robots?
+#Content: 
+Robots are machines capable of carrying out complex actions automatically, often programmable by a computer.
+
+#Slide: 3
+#Header: Types of Robots
+#Content: 
+1. INDUSTRIAL ROBOTS. Used in manufacturing.
+2. SERVICE ROBOTS. Assist in daily tasks.
+3. MEDICAL ROBOTS. Aid in healthcare.
+
+#Slide: 4
+#Header: Applications of Robots
+#Content: 
+Robots are used in industries, healthcare, military, space exploration, and more for efficiency and precision.
+
+#Slide: 5
+#Header: Future of Robotics
+#Content: 
+1. AI INTEGRATION. Smarter robots.
+2. ADVANCED AUTOMATION. Increased roles in daily life.
+3. ETHICAL CONCERNS. Addressing privacy and safety.
+
+#Slide: 6
+#Header: Summary
+#Content: 
+1. Robots perform complex tasks automatically.
+2. They are essential in various sectors.
+3. Future holds smarter and more integrated robots.
+
+#Slide: END

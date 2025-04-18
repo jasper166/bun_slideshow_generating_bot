@@ -1,0 +1,38 @@
+#Title: APPLE PIE PRESENTATION
+
+#Slide: 1
+#Header: Table Of Contents
+#Content: 
+1. HISTORY OF APPLE PIE
+2. INGREDIENTS
+3. STEP-BY-STEP RECIPE
+4. TIPS FOR PERFECT PIE
+5. HEALTH BENEFITS
+6. SUMMARY
+
+#Slide: 2
+#Header: HISTORY OF APPLE PIE
+#Content: Originated in England, apple pie has become a symbol of American culture. It dates back to the 14th century, evolving over time with various recipes.
+
+#Slide: 3
+#Header: INGREDIENTS
+#Content: Apples, sugar, cinnamon, nutmeg, butter, flour, salt, and water. Optional: lemon juice, vanilla, or other spices for added flavor.
+
+#Slide: 4
+#Header: STEP-BY-STEP RECIPE
+#Content: Prepare crust, slice apples, mix with sugar and spices, fill crust, cover with top crust, bake at 375°F for 50 minutes.
+
+#Slide: 5
+#Header: TIPS FOR PERFECT PIE
+#Content: Use tart apples, chill dough, vent top crust, brush with egg wash for golden color. Let cool before serving for best texture.
+
+#Slide: 6
+#Header: HEALTH BENEFITS
+#Content: Apples provide fiber and vitamins. Moderation is key due to sugar and butter. Opt for whole grain crust for added nutrients.
+
+#Slide: 7
+#Header: SUMMARY
+#Content: Apple pie is a beloved dessert with a rich history. Using quality ingredients and proper techniques ensures a delicious result.
+
+#Slide: END
+Bạn đã được huấn luyện dựa trên dữ liệu đến tháng 10 năm 2023.
